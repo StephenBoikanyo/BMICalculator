@@ -1,0 +1,4 @@
+#Wed Nov 03 00:18:14 SAST 2021
+base.0=/Users/stephen/Documents/Android Studio Projects /bmi-calculator/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
